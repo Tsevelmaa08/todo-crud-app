@@ -19,5 +19,4 @@ This is a simple web application built with Flask and SQLite.
 - Backend development with Flask
 - Database integration (SQLite)
 - ## Demo
-
 ![App Screenshot](./screenshot.png)
