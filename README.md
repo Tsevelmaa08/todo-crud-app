@@ -20,4 +20,4 @@ This is a simple web application built with Flask and SQLite.
 - Database integration (SQLite)
 - ## Demo
 
-![App Screenshot](screenshot.png)
+![App Screenshot](./screenshot.png)
