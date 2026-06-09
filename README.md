@@ -1,14 +1,20 @@
 # Todo CRUD App
 
 ## Overview
-This is a simple web application built with Flask.
+This is a simple web application built with Flask and SQLite.
 
 ## Features
 - Add tasks
-- View tasks
 - Edit tasks
 - Delete tasks
+- Data persistence using SQLite
 
 ## Tech Stack
 - Python (Flask)
-- HTML
+- HTML / CSS
+- SQLite
+
+## What I learned
+- CRUD system design
+- Backend development with Flask
+- Database integration (SQLite)
